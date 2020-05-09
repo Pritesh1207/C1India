@@ -1,0 +1,5 @@
+D:\DrawnBit\TestService\TestService\bin\Release\TestService.dll.config
+D:\DrawnBit\TestService\TestService\bin\Release\TestService.dll
+D:\DrawnBit\TestService\TestService\bin\Release\TestService.pdb
+D:\DrawnBit\TestService\TestService\obj\Release\TestService.dll
+D:\DrawnBit\TestService\TestService\obj\Release\TestService.pdb

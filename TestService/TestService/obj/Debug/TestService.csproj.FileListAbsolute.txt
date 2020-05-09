@@ -1,0 +1,6 @@
+D:\DrawnBit\TestService\TestService\bin\Debug\TestService.dll.config
+D:\DrawnBit\TestService\TestService\bin\Debug\TestService.dll
+D:\DrawnBit\TestService\TestService\bin\Debug\TestService.pdb
+D:\DrawnBit\TestService\TestService\obj\Debug\TestService.dll
+D:\DrawnBit\TestService\TestService\obj\Debug\TestService.pdb
+D:\DrawnBit\TestService\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
